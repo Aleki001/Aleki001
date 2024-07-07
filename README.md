@@ -11,20 +11,19 @@ I'm a Software Engineer Intern at ALX with a passion for building robust and sca
 
 ### Skills
 
-#### Primary Expertise
-1. **Flask:** I'm proficient in Flask, a micro web framework for Python. From developing RESTful APIs to creating web applications, I leverage Flask to build efficient and scalable solutions.
-
-2. **MySQL Database:** My expertise extends to managing and optimizing MySQL databases. I design schemas, write complex queries, and ensure database performance.
-
-3. **Python:** Python is my primary language for solving complex problems, automating tasks, and developing software applications.
-
-4. **DevOps:** I have knowledge and experience in DevOps practices, contributing to the end-to-end software development lifecycle. This includes understanding CI/CD pipelines, version control systems, and containerization.
-
-#### Additional Skills
-
-5. **Spring Boot:** While focusing on Python, I have a foundational understanding of Spring Boot in Java. I've worked on projects involving the integration of Spring Boot applications.
-
-6. **Java:** I have a basic understanding of Java, enabling collaboration on projects that require a broader skill set.
+- **Web Development**: Proficient in developing dynamic and responsive websites using HTML, CSS, and Bootstrap.
+- **REST APIs**: Skilled in creating and integrating RESTful APIs.
+- **Backend Development**:
+    - **Flask**: Experienced in building lightweight web applications.
+    - **Django**: Proficient in developing robust and scalable web applications.
+    - **Spring Boot**: Skilled in creating enterprise-level applications, microservices, and securing endpoints using JWT tokens.
+- **Database Management**:
+    - **PostgreSQL**: Expert in database design, querying, and optimization.
+    - **MySQL**: Proficient in data storage, retrieval, and management.
+- **Linux**: Extensive knowledge of Linux terminal commands and shell scripting.
+- **Containerization**: Proficient in using Docker for creating, managing, and deploying containers.
+- **Microservices**: Experienced in developing microservices architecture using Spring Boot.
+- **Payment Integrations**: Skilled in integrating payment solutions into web applications using Daraja APIs and Instasend APIs.
 
 ## Contact
 
